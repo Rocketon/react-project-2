@@ -21,7 +21,7 @@ function App() {
         setIsAuth,
       }}
     >
-      <BrowserRouter basename="/react-training_1/">
+      <BrowserRouter basename="/react-project-2/">
         <Navbar />
         <AppRouter />
       </BrowserRouter>
